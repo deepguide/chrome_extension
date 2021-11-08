@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="108px" viewBox="0 0 140 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-copy">
+            <path d="M-1.94622874,38 L67.9462366,38 C76.2602005,38 83,45.163444 83,54 C83,62.836556 76.2602005,70 67.9462366,70 L-1.94623656,70 C-10.2602005,70 -17,62.836556 -17,54 C-17,45.163444 -10.2602005,38 -1.94623656,38 Z" id="Combined-Shape" fill="#4A90E2" transform="translate(33.000000, 54.000000) rotate(-70.000000) translate(-33.000000, -54.000000) "></path>
+            <path d="M22.0537713,37 L91.9462366,37 C100.260201,37 107,44.163444 107,53 C107,61.836556 100.260201,69 91.9462366,69 L22.0537634,69 C13.7397995,69 7,61.836556 7,53 C7,44.163444 13.7397995,37 22.0537634,37 Z" id="Combined-Shape-Copy" fill="#B8E986" transform="translate(57.000000, 53.000000) rotate(70.000000) translate(-57.000000, -53.000000) "></path>
+            <path d="M46.0537713,37 L115.946237,37 C124.260201,37 131,44.163444 131,53 C131,61.836556 124.260201,69 115.946237,69 L46.0537634,69 C37.7397995,69 31,61.836556 31,53 C31,44.163444 37.7397995,37 46.0537634,37 Z" id="Combined-Shape-Copy-2" fill="#F8E71C" transform="translate(81.000000, 53.000000) rotate(-70.000000) translate(-81.000000, -53.000000) "></path>
+            <path d="M70.6250081,37 L139.375,37 C148.004449,37 155,44.163444 155,53 C155,61.836556 148.004449,69 139.375,69 L70.625,69 C61.9955508,69 55,61.836556 55,53 C55,44.163444 61.9955508,37 70.625,37 Z" id="Combined-Shape-Copy-3" fill="#F5A623" transform="translate(105.000000, 53.000000) rotate(70.000000) translate(-105.000000, -53.000000) "></path>
+        </g>
+    </g>
+</svg>

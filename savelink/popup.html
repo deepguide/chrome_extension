@@ -1,0 +1,108 @@
+<!doctype html>
+<html style="border-radius: 10px;">
+  <head>
+    <title>Save link to Monthalution</title>
+    <script src="jquery.js"></script>
+    <script type="text/javascript" src="popup.js"></script>
+    <style type="text/css">
+    html {
+      margin: 0px;
+      padding: 0px;
+    }
+    body {
+      width: 200px;
+      margin: 0px;
+      padding: 10px;
+      background-color: rgba(255,255,0, 0.0);
+    }
+    a {
+      text-decoration: none;
+      color: #0000aa;
+      cursor: pointer;
+    }
+    .containerdiv {
+      padding: 0px;
+    }
+    .divhidden {
+      display: none;
+    }
+    label {
+      color:#f1c40f;
+    }
+    p {
+      width: 100%;
+      text-align: center;
+    }
+    .formcontainer {
+      width: 100%;
+      text-align: center;
+    }
+    input {
+      width: 160px;
+      margin: 4px;
+    }
+    input.lbutton {
+      width: 80px;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="containerdiv">
+      <p><img src="logo.svg" /></p>
+      <div id="tryingdiv" class="divhidden">
+        <p>Saving...</p>
+      </div>
+      <div id="unsuccessfuldiv" class="divhidden">
+        <p>We were unable to log you into your account. Please try again or reset your password at <a href="https://monthalution.com" target="_BLANK">Monthalution</a>.</p>
+      </div>
+      <div id="successdiv" class="divhidden">
+        <p>This page has been saved!</p>
+        <p><a id="settingslink">Settings</a></p>
+        <div id="logoutcontainer" class="formcontainer divhidden">
+          <form id="logoutform">
+            <div className="field">
+              <input type="submit" id="logoutbutton" class="lbutton" value="Log Out">
+            </div>
+          </form>
+        </div>
+        <div class="formcontainer">
+          <form id="closeform">
+            <div className="field">
+              <input type="submit" id="closebutton" class="lbutton" value="Close">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div id="logindiv" class="divhidden">
+        <p>Please log into your <a href="https://monthalution.com" target="_BLANK">Monthalution</a> account:</p>
+        <div class="formcontainer">
+          <form id="loginform">
+            <div className="field">
+              <div>
+                <input
+                  id="loginidentifier"
+                  placeholder="Email Address"
+                  name="identifier"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div className="field">
+              <div>
+                <input
+                  id="loginpassword"
+                  placeholder="Password"
+                  name="password"
+                  type="password"
+                />
+              </div>
+            </div>
+            <div className="field">
+              <input type="submit" id="loginbutton" class="lbutton" value="Log In">
+            </div>
+          </form>
+        </div>
+      <div>
+    </div>
+  </body>
+</html>
